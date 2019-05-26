@@ -731,6 +731,8 @@ c.NotebookApp.port = 8888
 #  )
 #c.FileManagerMixin.use_atomic_writing = True
 
+c.FileCheckpoints.checkpoint_dir = '/usr/checkpoints'
+
 #------------------------------------------------------------------------------
 # FileContentsManager(FileManagerMixin,ContentsManager) configuration
 #------------------------------------------------------------------------------
