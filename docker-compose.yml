@@ -1,0 +1,12 @@
+version: '3'
+services:
+  application:
+    build:
+      context: .
+      dockerfile: dockers/Dockerfile
+    image: 'docker-jupyter:latest'
+    container_name: docker-jupyter
+    volumes:
+      - ..:/usr/src
+    ports:
+      - '8888:8888'
