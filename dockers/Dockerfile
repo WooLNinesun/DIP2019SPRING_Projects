@@ -35,7 +35,7 @@ COPY dockers/jupyter_config.base.py /root/.jupyter/jupyter_notebook_config.py
 # Install jupyter extension
 RUN \
     # https://github.com/ryantam626/jupyterlab_code_formatter
-    && jupyter labextension install @ryantam626/jupyterlab_code_formatter \
+    jupyter labextension install @ryantam626/jupyterlab_code_formatter \
     && pip install jupyterlab_code_formatter autopep8 \
     && jupyter serverextension enable --py jupyterlab_code_formatter \
     # https://github.com/ijmbarr/jupyterlab_spellchecker
