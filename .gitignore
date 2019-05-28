@@ -1,4 +1,9 @@
+# *.py
 __pycache__
-raw
+
+# docker config
 docker-compose.yml
-output
+
+# output
+output/*
+!output/.gitkeep
