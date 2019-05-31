@@ -1,8 +1,46 @@
 {
     "0001": {
-        "src": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5-W5/25/2015/isprsarchives-XL-5-W5-25-2015.pdf"
+        "src": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5-W5/25/2015/isprsarchives-XL-5-W5-25-2015.pdf",
+        "ext": "png"
     },
     "0002": {
-        "src": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5-W5/25/2015/isprsarchives-XL-5-W5-25-2015.pdf"
+        "src": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5-W5/25/2015/isprsarchives-XL-5-W5-25-2015.pdf",
+        "ext": "png"
+    },
+    "0003": {
+        "src": "https://worldadventuredivers.com/diving-yonaguni/",
+        "ext": "png"
+    },
+    "0004": {
+        "src": "https://worldadventuredivers.com/yonaguni-monument-diving/",
+        "ext": "jpg"
+    },
+    "0005": {
+        "src": "https://worldadventuredivers.com/ss-president-coolidge-diving-vanuatu/",
+        "ext": "jpg"
+    },
+    "0006": {
+        "src": "https://worldadventuredivers.com/ss-president-coolidge-diving-vanuatu/",
+        "ext": "jpg"
+    },
+    "0007": {
+        "src": "https://worldadventuredivers.com/ss-president-coolidge-diving-vanuatu/",
+        "ext": "jpg"
+    },
+    "0008": {
+        "src": "https://worldadventuredivers.com/ss-president-coolidge-diving-vanuatu/",
+        "ext": "jpg"
+    },
+    "0009": {
+        "src": "https://worldadventuredivers.com/ss-president-coolidge-diving-vanuatu/",
+        "ext": "jpg"
+    },
+    "0010": {
+        "src": "https://worldadventuredivers.com/top-10-dives-2018/",
+        "ext": "jpg"
+    },
+    "0011": {
+        "src": "https://unsplash.com/photos/UgpQ1Aq-xsI",
+        "ext": "jpg"
     }
 }
